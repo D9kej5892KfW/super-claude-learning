@@ -1,0 +1,16 @@
+{
+  "session_id": "super-claude-learning",
+  "created": "2025-07-21",
+  "last_updated": "2025-07-21",
+  "token_estimates": {
+    "chat_history": 0,
+    "session_notes": 500,
+    "project_context": 300,
+    "total_context": 800
+  },
+  "file_counts": {
+    "context_files": 5,
+    "total_files": 5
+  },
+  "status": "active"
+}

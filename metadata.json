@@ -1,0 +1,27 @@
+{
+  "session_name": "super-claude-learning",
+  "session_id": "2025-07-21-1810-super-claude-learning",
+  "start_time": "2025-07-21T18:10:00Z",
+  "end_time": null,
+  "duration": null,
+  "github_repository": "https://github.com/D9kej5892KfW/super-claude-learning",
+  "github_username": "D9kej5892KfW",
+  "working_directory": "/home/jeff/.claude/session-repos/super-claude-learning",
+  "session_goals": [
+    "Learn SuperClaude concepts and architecture",
+    "Understand intelligent orchestration system", 
+    "Practice with personas, MCP servers, and wave orchestration"
+  ],
+  "context_management": {
+    "enabled": true,
+    "auto_capture": true,
+    "context_directory": "context/"
+  },
+  "git_info": {
+    "branch": "main",
+    "remote": "git@github.com:D9kej5892KfW/super-claude-learning.git",
+    "initial_commit": false
+  },
+  "session_type": "learning",
+  "status": "active"
+}
