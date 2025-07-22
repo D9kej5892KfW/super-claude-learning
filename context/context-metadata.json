@@ -1,21 +1,26 @@
 {
   "session_id": "super-claude-learning",
   "created": "2025-07-21",
-  "last_updated": "2025-07-21T18:47:00Z",
+  "last_updated": "2025-07-21T19:10:00Z",
   "token_estimates": {
-    "chat_history": 3500,
-    "session_notes": 1200,
-    "project_context": 500,
+    "chat_history": 5500,
+    "session_notes": 1800,
+    "project_context": 700,
     "context_index": 300,
-    "total_context": 5500
+    "total_context": 8300
   },
   "file_counts": {
     "context_files": 5,
     "total_files": 9
   },
   "conversation_stats": {
-    "total_messages": 14,
-    "last_message_timestamp": "2025-07-21T18:45:00Z"
+    "total_messages": 22,
+    "last_message_timestamp": "2025-07-21T19:08:00Z"
+  },
+  "learning_materials": {
+    "external_files_created": 2,
+    "wave_theory_documented": true,
+    "theory_sections_ready": 4
   },
   "status": "active"
 }

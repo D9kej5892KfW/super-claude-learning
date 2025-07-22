@@ -24,15 +24,23 @@
   },
   "session_type": "learning",
   "status": "active",
-  "total_updates": 1,
-  "last_update": "2025-07-21T18:47:00Z",
+  "total_updates": 2,
+  "last_update": "2025-07-21T19:10:00Z",
   "learning_progress": {
     "sections_completed": 3,
     "total_sections": 6,
     "completion_percentage": 50,
-    "current_focus": "Wave Theory"
+    "current_focus": "Wave Theory",
+    "wave_theory_explained": true,
+    "ready_for_marking": true
   },
   "files_created": [
-    "SuperClaude-Theory-Guide.md"
-  ]
+    "SuperClaude-Theory-Guide.md",
+    "Wave-Theory-Deep-Dive.md"
+  ],
+  "external_materials": {
+    "location": "~/claude-code/21-07/",
+    "theory_guide": "SuperClaude-Theory-Guide.md",
+    "wave_theory_deep_dive": "Wave-Theory-Deep-Dive.md"
+  }
 }
