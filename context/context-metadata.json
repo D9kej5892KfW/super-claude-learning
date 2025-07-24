@@ -1,26 +1,39 @@
 {
   "session_id": "super-claude-learning",
   "created": "2025-07-21",
-  "last_updated": "2025-07-21T19:10:00Z",
+  "last_updated": "2025-07-24T00:00:00Z",
+  "completed": "2025-07-24T00:00:00Z",
   "token_estimates": {
-    "chat_history": 5500,
-    "session_notes": 1800,
-    "project_context": 700,
+    "chat_history": 6500,
+    "session_notes": 3200,
+    "project_context": 1000,
     "context_index": 300,
-    "total_context": 8300
+    "metadata": 800,
+    "total_context": 11800
   },
   "file_counts": {
     "context_files": 5,
-    "total_files": 9
+    "total_files": 9,
+    "external_files": 2
   },
   "conversation_stats": {
     "total_messages": 22,
-    "last_message_timestamp": "2025-07-21T19:08:00Z"
+    "session_end_messages": 8,
+    "last_message_timestamp": "2025-07-24T00:00:00Z",
+    "total_conversation_lines": 133
   },
   "learning_materials": {
     "external_files_created": 2,
     "wave_theory_documented": true,
-    "theory_sections_ready": 4
+    "theory_sections_completed": 4,
+    "theory_completion_percentage": 67,
+    "documentation_files": ["SuperClaude-Theory-Guide.md", "Wave-Theory-Deep-Dive.md"]
   },
-  "status": "active"
+  "session_duration": {
+    "start": "2025-07-21T18:06:00Z",
+    "end": "2025-07-24T00:00:00Z",
+    "duration_days": 5,
+    "session_updates": 2
+  },
+  "status": "completed"
 }
